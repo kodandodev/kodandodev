@@ -19,6 +19,6 @@
   <a href = "mailto:tainanaugusto2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tainanaugusto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/kodandodev/kodandodev/blob/main/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/kodandodev/kodandodev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
